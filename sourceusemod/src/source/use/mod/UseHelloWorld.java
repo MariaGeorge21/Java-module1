@@ -7,12 +7,12 @@ public class UseHelloWorld {
 		 * try { HelloWorld world = new HelloWorld(); world.message(); }catch(Exception
 		 * e) { e.printStackTrace(); }
 		 */
-		var x= "anil";
+		var x1= "anil";
 		var y=23.75;
 		var z='c';
 		
 		var x=20;
-		System.out.println(x.length());
+		System.out.println(x1.length());
 	}
 
 }
