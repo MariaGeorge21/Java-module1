@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-30T16:53:13 IST" name="mytestsuite" finished-at="2023-03-30T16:53:13 IST" duration-ms="132">
+    <groups>
+    </groups>
+    <test started-at="2023-03-30T16:53:13 IST" name="suite_example" finished-at="2023-03-30T16:53:13 IST" duration-ms="132">
+      <class name="com.ust.test.NewTest3">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.ust.test.NewTest3@149e0f5d]" started-at="2023-03-30T16:53:13 IST" name="beforeTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:1, instance:com.ust.test.NewTest3@149e0f5d]" started-at="2023-03-30T16:53:13 IST" name="f" description="this is exceuted" finished-at="2023-03-30T16:53:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="g()[pri:2, instance:com.ust.test.NewTest3@149e0f5d]" started-at="2023-03-30T16:53:13 IST" name="g" description="test description" finished-at="2023-03-30T16:53:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="a()[pri:3, instance:com.ust.test.NewTest3@149e0f5d]" started-at="2023-03-30T16:53:13 IST" name="a" description="then" finished-at="2023-03-30T16:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.ust.test.NewTest3@149e0f5d]" started-at="2023-03-30T16:53:13 IST" name="afterTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ust.test.NewTest3 -->
+      <class name="com.ust.test.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.ust.test.NewTest@2ea227af]" started-at="2023-03-30T16:53:13 IST" name="beforeTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:1, instance:com.ust.test.NewTest@2ea227af]" started-at="2023-03-30T16:53:13 IST" name="f" description="this is exceuted" finished-at="2023-03-30T16:53:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="g()[pri:2, instance:com.ust.test.NewTest@2ea227af]" started-at="2023-03-30T16:53:13 IST" name="g" description="test description" finished-at="2023-03-30T16:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="a()[pri:3, instance:com.ust.test.NewTest@2ea227af]" started-at="2023-03-30T16:53:13 IST" name="a" description="then" finished-at="2023-03-30T16:53:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.ust.test.NewTest@2ea227af]" started-at="2023-03-30T16:53:13 IST" name="afterTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ust.test.NewTest -->
+      <class name="com.ust.test.NewTest2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.ust.test.NewTest2@47d90b9e]" started-at="2023-03-30T16:53:13 IST" name="beforeTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:1, instance:com.ust.test.NewTest2@47d90b9e]" started-at="2023-03-30T16:53:13 IST" name="f" description="this is exceuted" finished-at="2023-03-30T16:53:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="g()[pri:2, instance:com.ust.test.NewTest2@47d90b9e]" started-at="2023-03-30T16:53:13 IST" name="g" description="test description" finished-at="2023-03-30T16:53:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="a()[pri:3, instance:com.ust.test.NewTest2@47d90b9e]" started-at="2023-03-30T16:53:13 IST" name="a" description="then" finished-at="2023-03-30T16:53:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.ust.test.NewTest2@47d90b9e]" started-at="2023-03-30T16:53:13 IST" name="afterTest" finished-at="2023-03-30T16:53:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ust.test.NewTest2 -->
+    </test> <!-- suite_example -->
+  </suite> <!-- mytestsuite -->
+</testng-results>
